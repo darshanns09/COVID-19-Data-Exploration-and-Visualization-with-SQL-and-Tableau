@@ -3,6 +3,7 @@ Based On SQL and Tableau
 
 
 ## Introduction
+
 Overview - 
 Exploring and visualizing COVID-19 data is essential for tracking the pandemic's course, identifying regional disparities, and informing data-driven decisions, ultimately saving lives and managing resources effectively.
 
