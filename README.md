@@ -16,7 +16,7 @@ SQL is essential for efficiently querying and processing data, while Tableau pro
 
 Obtaining Data -
 Our World in Data: Their COVID-19 dataset provides comprehensive global statistics, including cases, deaths, testing, and vaccination data.
-
+(https://ourworldindata.org/covid-deaths)
 Available Datasets -
 World Health Organization (WHO): Global data with an API.
 COVID Data API: Aggregated data from various sources.
